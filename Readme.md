@@ -23,5 +23,5 @@ On this part, we also construct a statistics summary that give us the tools for 
 
 ## MACHINE LEARNING
 In this final part of our project, we continue using our constructed database to try to elaborate machine learning models. Concretely, we make a linear test that shows us the possibilities of this path. However, we decide to try a XGBRegressor model, which is more accurate for this purpose. Thus, we construct two models to try to predict the price of gold and Brent Oil.
-NEXT STEPS
+## NEXT STEPS
 Due to the nature of this final project, we did not have the time to improve those models, so, the next stages of the project would be to adapt properly those machine learning. And finally, to be able to choose between them and take the more powerful. 
